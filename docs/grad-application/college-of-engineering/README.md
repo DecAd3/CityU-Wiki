@@ -8,6 +8,7 @@
 
 - [CMU MS-SE-SV](./[US]-2018-fengyi.md) by 18-CS-FENG Yi
 - [UCSD CS75](./[US]-2018-quyang.md) by 18-CS-QU Yang
+- [JHU MSECS](./[US]-2018-wangyujia.md) by 18-CS-WANG Yujia
 
 ## PhD Program
 

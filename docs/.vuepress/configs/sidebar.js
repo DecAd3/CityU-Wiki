@@ -4,7 +4,7 @@ const sidebar = [
     collapsible: true,
     children: [
       {
-        text: '工学院',
+        text: '工学院(3)',
         link: '/grad-application/college-of-engineering/',
         children: [],
       },
@@ -50,17 +50,14 @@ const sidebar = [
     collapsible: true,
     children: [
       {
-        text: '2+2',
+        text: '2+2 (2)',
         link: '/oversea/two-plus-two/',
-        children: [
-          '/oversea/two-plus-two/[CS]-2018-wuqianyi.md',
-          '/oversea/two-plus-two/[CS]-2019-xujiakai.md',
-        ],
+        children: [],
       },
       {
-        text: '交换与暑校',
+        text: '交换与暑校 (1)',
         link: '/oversea/exchange/',
-        children: ['/oversea/exchange/[TVB]-2018-wangshuyue.md'],
+        children: [],
       },
       {
         text: '转学',
@@ -74,9 +71,9 @@ const sidebar = [
     collapsible: true,
     children: [
       {
-        text: '互联网',
+        text: '互联网 (1)',
         link: '/internship/it/',
-        children: ['/internship/it/[GSoC]-2018-fengyi.md'],
+        children: [],
       },
       {
         text: '金融',
@@ -84,14 +81,14 @@ const sidebar = [
         children: [],
       },
       {
-        text: '媒体',
+        text: '媒体 (1)',
         link: '/internship/media/',
-        children: ['/internship/media/[TVB]-2018-zhangbingjie.md'],
+        children: [],
       },
       {
-        text: '多段跨行业实习总结',
+        text: '多段跨行业实习总结 (1)',
         link: '/internship/summary/',
-        children: ['/internship/summary/[TVB]-2018-wangshuyue.md'],
+        children: [],
       },
       {
         text: '校内兼职',
@@ -105,12 +102,9 @@ const sidebar = [
     collapsible: true,
     children: [
       {
-        text: '校内',
+        text: '校内 (2)',
         link: '/research/on-campus/',
-        children: [
-          '/research/on-campus/[CS]-2018-zhangjingwei.md',
-          '/research/on-campus/[MA]-2019-dutao.md',
-        ],
+        children: [],
       },
       {
         text: '暑研',
@@ -124,12 +118,9 @@ const sidebar = [
     collapsible: true,
     children: [
       {
-        text: '转专业',
+        text: '转专业 (2)',
         link: '/major-minor/change-major/',
-        children: [
-          '/major-minor/change-major/[ACE2CS]-2018-zhangjingwei.md',
-          '/major-minor/change-major/[MNE2CS]-2018-wangyujia.md',
-        ],
+        children: [],
       },
       {
         text: '多主修辅修',
@@ -164,9 +155,9 @@ const sidebar = [
         children: [],
       },
       {
-        text: 'TOEFL',
+        text: 'TOEFL (1)',
         link: '/language/toefl/',
-        children: ['/language/toefl/[CS]-2018-fengyi.md'],
+        children: [],
       },
       {
         text: 'IELTS',
