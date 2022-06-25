@@ -4,7 +4,7 @@ const sidebar = [
     collapsible: true,
     children: [
       {
-        text: '工学院(3)',
+        text: '工学院(4)',
         link: '/grad-application/college-of-engineering/',
         children: [],
       },
